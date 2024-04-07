@@ -260,7 +260,7 @@
   new PureCounter();
 
   document.getElementById("cv-btn").addEventListener("click", function() {
-    window.open('CV DONMEZ Okan.pdf', '_blank');
+    window.open('', '_blank');
 });
 
 
