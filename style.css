@@ -1105,7 +1105,7 @@ section {
   }
 
   cv-btn {
-    background-color: #007bff;
+    background-color: #00FBFF;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -1116,7 +1116,6 @@ section {
 
 #cv-btn:hover {
     background-color: #00FBFF;
-    display: flex, justify-content: center, et align-items: center
 }
 
 
