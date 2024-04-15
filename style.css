@@ -1115,7 +1115,8 @@ section {
 }
 
 #cv-btn:hover {
-    background-color: #0056b3;
+    background-color: #00FBFF;
+    display: flex, justify-content: center, et align-items: center
 }
 
 
