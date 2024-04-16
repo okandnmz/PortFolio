@@ -2369,7 +2369,7 @@
     content: "\eb11";
   }
   .bx-home:before {
-    content: "\eb12";
+    content: "home.png";
   }
   .bx-home-alt:before {
     content: "\eb13";
