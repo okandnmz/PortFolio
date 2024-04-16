@@ -2369,19 +2369,19 @@
     content: "\eb11";
   }
   .bx-home:before {
-    background-image: url('home.png');
+    content: "\eb12";
   }
   .bx-home-alt:before {
-    background-image: url('home.png');
+    content: "\eb13";
   }
   .bx-home-circle:before {
-    background-image: url('home.png');
+    content: "\eb14";
   }
   .bx-home-heart:before {
-    background-image: url('home.png');
+    content: "\eb15";
   }
   .bx-home-smile:before {
-    background-image: url('home.png');
+    content: "\eb16";
   }
   .bx-horizontal-center:before {
     content: "\eb17";
